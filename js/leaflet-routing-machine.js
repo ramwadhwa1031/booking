@@ -6751,9 +6751,9 @@
                         "destination": "Tourner légèrement à droite en direction {destination:preposition}"
                     },
                     "uturn": {
-                        "default": "Faire demi-tour",
-                        "name": "Faire demi-tour et continuer sur {way_name:article}",
-                        "destination": "Faire demi-tour en direction {destination:preposition}"
+                        "default": "Faree demi-tour",
+                        "name": "Faree demi-tour et continuer sur {way_name:article}",
+                        "destination": "Faree demi-tour en direction {destination:preposition}"
                     }
                 },
                 "depart": {
@@ -6775,9 +6775,9 @@
                         "destination": "Continuer tout droit en direction {destination:preposition}"
                     },
                     "uturn": {
-                        "default": "Faire demi-tour à la fin de la route",
-                        "name": "Faire demi-tour à la fin {way_name:preposition}",
-                        "destination": "Faire demi-tour à la fin de la route en direction {destination:preposition}"
+                        "default": "Faree demi-tour à la fin de la route",
+                        "name": "Faree demi-tour à la fin {way_name:preposition}",
+                        "destination": "Faree demi-tour à la fin de la route en direction {destination:preposition}"
                     }
                 },
                 "fork": {
@@ -6807,9 +6807,9 @@
                         "destination": "Tourner franchement à droite en direction {destination:preposition}"
                     },
                     "uturn": {
-                        "default": "Faire demi-tour",
-                        "name": "Faire demi-tour sur {way_name:article}",
-                        "destination": "Faire demi-tour en direction {destination:preposition}"
+                        "default": "Faree demi-tour",
+                        "name": "Faree demi-tour sur {way_name:article}",
+                        "destination": "Faree demi-tour en direction {destination:preposition}"
                     }
                 },
                 "merge": {
@@ -6844,9 +6844,9 @@
                         "destination": "S’insérer à droite en direction {destination:preposition}"
                     },
                     "uturn": {
-                        "default": "Faire demi-tour",
-                        "name": "Faire demi-tour sur {way_name:article}",
-                        "destination": "Faire demi-tour en direction {destination:preposition}"
+                        "default": "Faree demi-tour",
+                        "name": "Faree demi-tour sur {way_name:article}",
+                        "destination": "Faree demi-tour en direction {destination:preposition}"
                     }
                 },
                 "new name": {
@@ -6881,9 +6881,9 @@
                         "destination": "Continuer légèrement à droite en direction {destination:preposition}"
                     },
                     "uturn": {
-                        "default": "Faire demi-tour",
-                        "name": "Faire demi-tour sur {way_name:article}",
-                        "destination": "Faire demi-tour en direction {destination:preposition}"
+                        "default": "Faree demi-tour",
+                        "name": "Faree demi-tour sur {way_name:article}",
+                        "destination": "Faree demi-tour en direction {destination:preposition}"
                     }
                 },
                 "notification": {
@@ -6893,9 +6893,9 @@
                         "destination": "Continuer {modifier} en direction {destination:preposition}"
                     },
                     "uturn": {
-                        "default": "Faire demi-tour",
-                        "name": "Faire demi-tour sur {way_name:article}",
-                        "destination": "Faire demi-tour en direction {destination:preposition}"
+                        "default": "Faree demi-tour",
+                        "name": "Faree demi-tour sur {way_name:article}",
+                        "destination": "Faree demi-tour en direction {destination:preposition}"
                     }
                 },
                 "off ramp": {
